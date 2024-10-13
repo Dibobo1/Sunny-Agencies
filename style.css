@@ -272,13 +272,13 @@ nav .icon {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
     .eachdish {
         width: 100%;
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
     .nav a:not(:first-child) {display: none;}
     .nav a.icon {
         float: right;
@@ -286,7 +286,7 @@ nav .icon {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
     .nav .responsive {position: relative;}
     .nav.responsive .icon {
         position: absolute;
